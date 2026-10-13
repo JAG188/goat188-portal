@@ -6,5 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
+    sitemap: "https://goat188-portal.vercel.app/sitemap.xml",
   };
 }
