@@ -23,6 +23,9 @@ export const metadata: Metadata = {
   },
   description: PAGE_DESCRIPTION,
   applicationName: "GOAT188",
+  verification: {
+    google: "xMK9DGdCfgm_4J0n5d12YKbwejxhY4qUKkKpfmTFQb4",
+  },
 };
 
 export const viewport: Viewport = {
